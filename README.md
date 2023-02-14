@@ -8,9 +8,11 @@
 > **금융 데이터 분석 (2019.03 ~ 현재)**
 >> - 국내저널(KCI): N-기간 변동성 데이터 라벨링을 활용한 XGBoost 트레이딩 시스템 개발  
 >> - 해외저널(SCI): A machine learning trading system for the stock market based on N-period Min-Max labeling using XGBoost
+>> - 준비중(SCI): Genetic Algorithm Labeling
 
 > **의료 데이터 분석 (2021.09 ~ 현재)**
 >> - 해외저널(SCI): Intelligent Ensemble Deep Learning System for Blood Glucose Prediction Using Genetic Algorithms
+>> - 준비중(SCI): Blood Glucose Prediction
 
 > **컴퓨터 비전 (2022.12 ~ 현재)**
 
