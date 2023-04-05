@@ -4,6 +4,7 @@
 >> - 시티즌코난 검색 엔진(Elasticsearch) 구현 (2022.09 ~ 2022.12)  
 >> - 교통사고, 보이스피싱 관련 분석용 데이터 전처리 (2022.12 ~ 2023.02)  
 >> - 직장 내 부당행위에 대한 데이터셋 분석 및 개념 제시 (2022.12 ~ 2023.02)
+>> - 대학 내 범죄 및 사고 데이터 전처리 (2022.04)
 
 ### 순천향대학교 ADS Lab [박사 과정 연구원]
 > **금융 데이터 분석 (2019.03 ~ 현재)**
@@ -32,6 +33,8 @@
 - 장려상: 통계데이터 인공지능 활용대회 [통계청]  
 > **2022**
 - 우수상: 데이터 크리에이터 캠프 [NIA]
+> **2023**
+- 준비중: 제2회 ETRI 휴먼이해 인공지능 논문경진대회 [ETRI]
 
 # :books: Skills
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
