@@ -16,9 +16,9 @@
 >> - 해외저널: Kim, D. Y., Choi, D. S., Kang, A. R., Woo, J., Han, Y., Chun, S. W., & Kim, J. (2022). Intelligent Ensemble Deep Learning System for Blood Glucose Prediction Using Genetic Algorithms. Complexity, 2022.
 >> - 준비중: Blood Glucose Prediction
 
-> **컴퓨터 비전 (2022.12 ~ 현재)**
+> **이미지 분석 (2022.12 ~ 현재)**
 
-> **음성 데이터 분석 (2023.03 ~ 현재)**
+> **오디오 분석 (2023.03 ~ 현재)**
 
 ### 순천향대학교 빅데이터공학과 [시간강사]
 - 데이터베이스 개론 수업 (2022.09 ~ 2022.12)
