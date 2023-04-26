@@ -14,7 +14,7 @@
 
 > **의료 분석 (2021.09 ~ 현재)**
 >> - 해외저널: Kim, D. Y., Choi, D. S., Kang, A. R., Woo, J., Han, Y., Chun, S. W., & Kim, J. (2022). Intelligent Ensemble Deep Learning System for Blood Glucose Prediction Using Genetic Algorithms. Complexity, 2022.
->> - 준비중: GluStack
+>> - 준비중: Glu-Ensemble
 
 > **이미지 분석 (2022.12 ~ 현재)**
 
