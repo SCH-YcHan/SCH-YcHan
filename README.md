@@ -35,8 +35,6 @@
 - 장려상: 통계데이터 인공지능 활용대회 [통계청]  
 > **2022**
 - 우수상: 데이터 크리에이터 캠프 [NIA]
-> **2023**
-- 준비중: 제2회 ETRI 휴먼이해 인공지능 논문경진대회 [ETRI]
 
 # :books: Skills
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
