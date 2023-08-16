@@ -1,26 +1,34 @@
 # :office: Career
-### 안전파트너스 [데이터기획 프리랜서]
+## 안전파트너스 [Data Scientist]
 > **경찰대학 [치안정책연구소]**
 >> - 시티즌코난 검색 엔진(Elasticsearch) 구현 (2022.09 ~ 2022.12)  
 >> - 교통사고, 보이스피싱 관련 분석용 데이터 전처리 (2022.12 ~ 2023.02)  
 >> - 직장 내 부당행위에 대한 데이터셋 분석 및 개념 제시 (2022.12 ~ 2023.02)  
 >> - 대학 내 범죄 및 사고 데이터 전처리 (2022.04)  
 
-### 순천향대학교 ADS Lab [박사 과정 연구원]
+## Soonchunhyang University ADS Lab [Ph.D. student]
 > **금융 분석 (2019.03 ~ 현재)**
->> - 국내저널: 한예찬, & 김재윤. (2021). N-기간 변동성 데이터 라벨링을 활용한 XGBoost 트레이딩 시스템 개발. 한국데이터정보과학회지, 32(5), 1049-1070. 
->> - 해외저널: Han, Y., Kim, J., & Enke, D. (2023). A machine learning trading system for the stock market based on N-period Min-Max labeling using XGBoost. Expert Systems with Applications, 211, 118581.
->> - 논문제출: Selective Genetic Algorithm labeling: A new data labeling method for machine learning stock market trading systems
+>> *Domestic Journal*
+>>> - 한예찬, & 김재윤. (2021). N-기간 변동성 데이터 라벨링을 활용한 XGBoost 트레이딩 시스템 개발. 한국데이터정보과학회지, 32(5), 1049-1070. [[Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ&citation_for_view=B_DD9tUAAAAJ:Tyk-4Ss8FVUC)]
+>
+>> *International Journal*
+>>> - Han, Y., Kim, J., & Enke, D. (2023). A machine learning trading system for the stock market based on N-period Min-Max labeling using XGBoost. Expert Systems with Applications, 211, 118581. [[Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ&citation_for_view=B_DD9tUAAAAJ:2osOgNQ5qMEC)]
+>>> - Selective Genetic Algorithm labeling: A new data labeling method for machine learning stock market trading systems (Submit)
+>
+>> *Conference Proceedings*
+>>> -
+>>> -
 
 > **의료 분석 (2021.09 ~ 현재)**
->> - 해외저널: Kim, D. Y., Choi, D. S., Kang, A. R., Woo, J., Han, Y., Chun, S. W., & Kim, J. (2022). Intelligent Ensemble Deep Learning System for Blood Glucose Prediction Using Genetic Algorithms. Complexity, 2022.
->> - 논문제출: Glu-Ensemble: An ensemble deep learning framework for blood glucose forecasting in type 2 diabetes patients
+>> *International Journal*
+>>> - Kim, D. Y., Choi, D. S., Kang, A. R., Woo, J., Han, Y., Chun, S. W., & Kim, J. (2022). Intelligent Ensemble Deep Learning System for Blood Glucose Prediction Using Genetic Algorithms. Complexity, 2022. [[Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ&citation_for_view=B_DD9tUAAAAJ:Y0pCki6q_DkC)]
+>>> - Glu-Ensemble: An ensemble deep learning framework for blood glucose forecasting in type 2 diabetes patients (Submit)
 
-### 순천향대학교 빅데이터공학과 [시간강사]
+## 순천향대학교 빅데이터공학과 [시간강사]
 - 데이터베이스 개론 수업 (2022.09 ~ 2022.12)
 - 데이터마이닝 수업 (2023.02 ~ 2023.06)
 
-### 세교고등학교 [AI 강사]
+## 세교고등학교 [AI 강사]
 - 오렌지3를 활용한 데이터 분석 및 활용 강의 (2022.03 ~ 2022.07)
 - 스크래치를 활용한 데이터 분석 및 활용 강의 (2022.08 ~ 2022.12)
 
