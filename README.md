@@ -1,13 +1,13 @@
-# :office: Career
-## 안전파트너스 [Data Scientist]
-> **경찰대학 [치안정책연구소]**
->> - 시티즌코난 검색 엔진(Elasticsearch) 구현 (2022.09 ~ 2022.12)  
->> - 교통사고, 보이스피싱 관련 분석용 데이터 전처리 (2022.12 ~ 2023.02)  
->> - 직장 내 부당행위에 대한 데이터셋 분석 및 개념 제시 (2022.12 ~ 2023.02)  
->> - 대학 내 범죄 및 사고 데이터 전처리 (2022.04)  
+# Career :office:
+## Data Scientist Freelancer
+> **Korean National Police University [Police Science Instltute]**
+>> - Developining search engine using elasticsearch in Citizen Conan (2022.09 ~ 2022.12)  
+>> - Traffic accident and voice phishing data pre-processing (2022.12 ~ 2023.02)  
+>> - Dataset analysis and concept presentation of unfair behavior in the workplace (2022.12 ~ 2023.02)  
+>> - Crime and accident data pre-processing within the university (2023.04 ~ 2023.06)  
 
 ## Soonchunhyang University ADS Lab [Ph.D. student]
-> **Financial analysis (2019.03 ~)**
+> **Financial Analysis (2019.03 ~)**
 >> *Domestic Journal*
 >>> - 한예찬, & 김재윤. (2021). N-기간 변동성 데이터 라벨링을 활용한 XGBoost 트레이딩 시스템 개발. 한국데이터정보과학회지, 32(5), 1049-1070. [[Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ&citation_for_view=B_DD9tUAAAAJ:Tyk-4Ss8FVUC)]
 >
@@ -18,7 +18,7 @@
 >> *Conference Proceedings*
 >>> - 한예찬, & 김재윤. (2022). 머신러닝 트레이딩 시스템 개발을 위한 유전자 알고리즘 기반 데이터 라벨링. 한국통신학회 학술대회논문집, 1813-1814. [[Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ&citation_for_view=B_DD9tUAAAAJ:UeHWp8X0CEIC)]
 
-> **Bio & Medical analysis (2020.03 ~)**
+> **Bio & Medical Analysis (2020.03 ~)**
 >> *International Journal*
 >>> - Kim, D. Y., Choi, D. S., Kang, A. R., Woo, J., Han, Y., Chun, S. W., & Kim, J. (2022). Intelligent Ensemble Deep Learning System for Blood Glucose Prediction Using Genetic Algorithms. Complexity, 2022. [[Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ&citation_for_view=B_DD9tUAAAAJ:Y0pCki6q_DkC)]
 >>> - Glu-Ensemble: An ensemble deep learning framework for blood glucose forecasting in type 2 diabetes patients (Submit)
@@ -36,7 +36,7 @@
 - 오렌지3를 활용한 데이터 분석 및 활용 강의 (2022.03 ~ 2022.07)
 - 스크래치를 활용한 데이터 분석 및 활용 강의 (2022.08 ~ 2022.12)
 
-# :trophy: Awards
+# Awards :trophy:
 > **2021**
 - 최우수상: 인공지능 데이터를 활용한 고양시 민원객체 인식 데이터톤 [고양시]  
 - 최우수상: AI 학습용 특허 데이터를 활용한 서비스 기획 및 아이디어 공모전 [NIA]  
@@ -44,7 +44,7 @@
 > **2022**
 - 우수상: 데이터 크리에이터 캠프 [NIA]
 
-# :books: Skills
+# Skills :books:
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 <a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
