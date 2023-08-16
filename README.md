@@ -28,6 +28,10 @@
 >>> - 김다혜, 한예찬, 정영섭, & 김재윤. (2021). 특징 추출 기법을 이용한 사용자 행동 인식 모델. 한국컴퓨터정보학회 학술발표논문집, 29(2), 47-48. [[Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ&citation_for_view=B_DD9tUAAAAJ:IjCSPb-OGe4C)]
 >>> - 한예찬, 손우진, & 김재윤. (2022). CNN 기반 이미지 분류 모델 훈련 시 병렬 처리 기술이 학습 속도에 미치는 영향. 한국통신학회 학술대회논문집, 937-938. [[Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ&citation_for_view=B_DD9tUAAAAJ:W7OEmFMy1HYC)]
 
+> **Mobility Analysis (2021.12 ~)**
+>> *Conference Proceedings*
+>>> - 한예찬, 이석준, & 김재윤. (2022). CCTV 이미지와 YOLO 를 활용한 도로 객체 인식 모델 개발. 한국통신학회 학술대회논문집, 1666-1667. [[Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ&citation_for_view=B_DD9tUAAAAJ:zYLM7Y9cAGgC)]
+
 ## 순천향대학교 빅데이터공학과 [시간강사]
 - 데이터베이스 개론 수업 (2022.09 ~ 2022.12)
 - 데이터마이닝 수업 (2023.02 ~ 2023.06)
