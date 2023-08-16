@@ -10,15 +10,11 @@
 > **금융 분석 (2019.03 ~ 현재)**
 >> - 국내저널: 한예찬, & 김재윤. (2021). N-기간 변동성 데이터 라벨링을 활용한 XGBoost 트레이딩 시스템 개발. 한국데이터정보과학회지, 32(5), 1049-1070. 
 >> - 해외저널: Han, Y., Kim, J., & Enke, D. (2023). A machine learning trading system for the stock market based on N-period Min-Max labeling using XGBoost. Expert Systems with Applications, 211, 118581.
->> - 준비중: Selective Genetic Algorithm Labeling
+>> - 논문제출: Selective Genetic Algorithm labeling: A new data labeling method for machine learning stock market trading systems
 
 > **의료 분석 (2021.09 ~ 현재)**
 >> - 해외저널: Kim, D. Y., Choi, D. S., Kang, A. R., Woo, J., Han, Y., Chun, S. W., & Kim, J. (2022). Intelligent Ensemble Deep Learning System for Blood Glucose Prediction Using Genetic Algorithms. Complexity, 2022.
->> - 준비중: Glu-Ensemble
-
-> **이미지 분석 (2022.12 ~ 현재)**
-
-> **오디오 분석 (2023.03 ~ 현재)**
+>> - 논문제출: Glu-Ensemble: An ensemble deep learning framework for blood glucose forecasting in type 2 diabetes patients
 
 ### 순천향대학교 빅데이터공학과 [시간강사]
 - 데이터베이스 개론 수업 (2022.09 ~ 2022.12)
