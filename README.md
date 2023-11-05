@@ -54,15 +54,15 @@
 > - 장려상: 통계데이터 인공지능 활용대회 [통계청]
 
 # Skills :books:
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-<a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
-<a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-<a href="https://mmdetection.readthedocs.io/en/latest/" target="_blank"><img src="https://img.shields.io/badge/MMDetection-008FC7?style=for-the-badge&logo=github&logoColor=white">
-<a href="https://mmsegmentation.readthedocs.io/en/latest/" target="_blank"><img src="https://img.shields.io/badge/MMSegmentation-008FC7?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">  
+<a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">  
+<a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">  
+<a href="https://mmdetection.readthedocs.io/en/latest/" target="_blank"><img src="https://img.shields.io/badge/MMDetection-008FC7?style=for-the-badge&logo=github&logoColor=white">  
+<a href="https://mmsegmentation.readthedocs.io/en/latest/" target="_blank"><img src="https://img.shields.io/badge/MMSegmentation-008FC7?style=for-the-badge&logo=github&logoColor=white">  
 
-<a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
-<a href="https://posit.co/" target="_blank"><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
+<a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">  
+<a href="https://posit.co/" target="_blank"><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">  
 
-<a href="https://chat.openai.com/" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
+<a href="https://chat.openai.com/" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=OpenAI&logoColor=white">  
 
