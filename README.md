@@ -10,7 +10,7 @@
 > **Applied Data Science Lab [Ph.D. Student]**
 >> **Financial Analysis (2019.03 ~)**
 >>> *International Journal*
->>> - Selective Genetic Algorithm labeling: A new data labeling method for machine learning stock market trading systems (Revision complete)
+>>> - Selective Genetic Algorithm labeling: A new data labeling method for machine learning stock market trading systems (Accept)
 >>> - Han, Y., Kim, J., & Enke, D. (2023). A machine learning trading system for the stock market based on N-period Min-Max labeling using XGBoost. Expert Systems with Applications, 211, 118581. [[Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ&citation_for_view=B_DD9tUAAAAJ:2osOgNQ5qMEC)]
 >>
 >>> *Domestic Journal*
