@@ -40,6 +40,7 @@
 > **Department of Big Data Engineering [Part-Time Lecturer]**
 > - Data mining (2023.02 ~ 2023.06)
 > - Introduction to Databases (2022.09 ~ 2022.12)
+> - Introduction to Databases (2024.09 ~ 2024.12)
 
 ## Segyo High School 
 > **Artificial Intelligence Lecturer**
