@@ -51,7 +51,7 @@
     *Complexity, 2022.*  
     [[🔗 Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ&citation_for_view=B_DD9tUAAAAJ:Y0pCki6q_DkC)]  
 
-- **Conference Proceedings**
+- **Conference Proceedings**  
   - 한예찬, 박명석, & 김재윤. (2023).  
     *PIDNet 을 활용한 실시간 신장 사구체 segmentation 모델 개발.*  
     *한국통신학회 인공지능 학술대회 논문집, 446-447.*  
