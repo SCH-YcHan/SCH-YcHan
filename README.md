@@ -17,6 +17,7 @@
 >>> - 한예찬, & 김재윤. (2021). N-기간 변동성 데이터 라벨링을 활용한 XGBoost 트레이딩 시스템 개발. 한국데이터정보과학회지, 32(5), 1049-1070. [[Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ&citation_for_view=B_DD9tUAAAAJ:Tyk-4Ss8FVUC)]
 >>
 >>> *Conference Proceedings*
+>>> - 정민찬, 손우진, 한예찬, & 김재윤. (2024). 다중 라벨을 활용한 코스피 200 주가지수선물 딥러닝 트레이딩 시스템 개발. 한국통신학회 학술대회논문집, 1389-1390. [[Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ&sortby=pubdate&citation_for_view=B_DD9tUAAAAJ:roLk4NBRz8UC)]
 >>> - 한예찬, & 김재윤. (2022). 머신러닝 트레이딩 시스템 개발을 위한 유전자 알고리즘 기반 데이터 라벨링. 한국통신학회 학술대회논문집, 1813-1814. [[Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ&citation_for_view=B_DD9tUAAAAJ:UeHWp8X0CEIC)]
 >
 >> **Bio & Medical Analysis (2020.03 ~)**
