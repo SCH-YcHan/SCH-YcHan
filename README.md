@@ -96,11 +96,15 @@
 ---
 
 ## 📚 **Teaching Experience**
-> ** Soonchunhyang University [Department of Big Data Engineering]**  
+> **Soonchunhyang University [Department of Big Data Engineering]**  
 - 📅 **2025.03 ~ 2025.06**: Multivariate Analysis  
 - 📅 **2024.09 ~ 2024.12**: Introduction to Databases  
 - 📅 **2023.03 ~ 2023.06**: Data Mining  
 - 📅 **2022.09 ~ 2022.12**: Introduction to Databases  
+
+> **Segyo High School**  
+- 📅 **2022.08 ~ 2022.12**: Data analysis and utilization with Scratch  
+- 📅 **2022.03 ~ 2022.07**: Data analysis and utilization with Orange3  
 
 ---
 
