@@ -38,9 +38,10 @@
 >>> - 한예찬, 이석준, & 김재윤. (2022). CCTV 이미지와 YOLO 를 활용한 도로 객체 인식 모델 개발. 한국통신학회 학술대회논문집, 1666-1667. [[Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ&citation_for_view=B_DD9tUAAAAJ:zYLM7Y9cAGgC)]
 
 > **Department of Big Data Engineering [Part-Time Lecturer]**
-> - Data mining (2023.02 ~ 2023.06)
-> - Introduction to Databases (2022.09 ~ 2022.12)
+> - Multivariate Analysis (2025.03 ~ 2025.06)
 > - Introduction to Databases (2024.09 ~ 2024.12)
+> - Data mining (2023.03 ~ 2023.06)
+> - Introduction to Databases (2022.09 ~ 2022.12)
 
 ## Segyo High School 
 > **Artificial Intelligence Lecturer**
