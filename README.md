@@ -9,9 +9,8 @@
 
 ---
 
-## 🎓 **Soonchunhyang University**
-### **Applied Data Science Lab [Ph.D. Student]**
-#### 📊 **Financial Analysis (2019.03 ~)**  
+## 🎓 **Soonchunhyang University ADS Lab**
+### 📊 **Financial Analysis (2019.03 ~)**  
 - **International Journal**  
   - Han, Y., Kim, J., & Enke, D. (2024).  
     *Selective genetic algorithm labeling: A new data labeling method for machine learning stock market trading systems.*  
@@ -39,7 +38,7 @@
     *한국통신학회 학술대회논문집, 1813-1814.*  
     [[🔗 Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ:UeHWp8X0CEIC)]  
 
-#### 🩺 **Bio & Medical Analysis (2020.03 ~)**  
+### 🩺 **Bio & Medical Analysis (2020.03 ~)**  
 - **International Journal**  
   - AI-driven stiffness profiling in human mesenchymal stem cell *(Writing)*  
   - Real-time glomeruli semantic segmentation using transfer learning in multi-scale kidney digital pathology image *(Submit)*  
