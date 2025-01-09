@@ -72,7 +72,18 @@
     *기계학습을 이용한 마취 후 저혈압 예측.*  
     *한국정보과학회 학술발표논문집, 1587-1589.*  
     [[🔗 Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ&citation_for_view=B_DD9tUAAAAJ:u5HHmVD_uO8C)]  
- 
+
+### 🚗 **Mobility Analysis (2021.12 ~)**  
+- **Conference Proceedings**  
+  - 한예찬, 박태신, & 김재윤. (2023).  
+    *AutoML 과 XAI 를 활용한 중고차 가격 예측 모델의 성능 평가.*  
+    *한국통신학회 학술대회논문집, 1668-1669.*  
+    [[🔗 Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ&citation_for_view=B_DD9tUAAAAJ:eQOLeE2rZwMC)]  
+  - 한예찬, 이석준, & 김재윤. (2022).  
+    *CCTV 이미지와 YOLO 를 활용한 도로 객체 인식 모델 개발.*  
+    *한국통신학회 학술대회논문집, 1666-1667.*  
+    [[🔗 Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ&citation_for_view=B_DD9tUAAAAJ:zYLM7Y9cAGgC)]  
+
 ---
 
 ## 📚 **Teaching Experience**
