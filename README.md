@@ -22,6 +22,7 @@
 >
 >> **Bio & Medical Analysis (2020.03 ~)**
 >>> *International Journal*
+>>> - AI-driven stiffness profiling in human mesenchymal stem cell (Writing)
 >>> - Real-time glomeruli semantic segmentation using transfer learning in multi-scale kidney digital pathology image (Submit)
 >>> - Han, Y., Kim, D. Y., Woo, J., & Kim, J. (2024). Glu-ensemble: An ensemble deep learning framework for blood glucose forecasting in type 2 diabetes patients. Heliyon. [[Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ&citation_for_view=B_DD9tUAAAAJ:_FxGoFyzp5QC)]
 >>> - Kim, D. Y., Choi, D. S., Kang, A. R., Woo, J., Han, Y., Chun, S. W., & Kim, J. (2022). Intelligent Ensemble Deep Learning System for Blood Glucose Prediction Using Genetic Algorithms. Complexity, 2022. [[Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ&citation_for_view=B_DD9tUAAAAJ:Y0pCki6q_DkC)]
