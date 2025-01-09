@@ -1,5 +1,7 @@
 # 🌟 **Career Overview**
 
+---
+
 ## 👨‍💻 **Data Scientist Freelancer**
 > **Korean National Police University [Police Science Institute]**
 - 📅 **2023.04 ~ 2023.06**: Crime and accident data pre-processing within the university  
@@ -143,3 +145,5 @@
 ## 🌐 **Contact**
 📧 Email: ychan.sch@gmail.com  
 🔗 [GitHub Profile](https://github.com/SCH-YcHan)  
+
+---
