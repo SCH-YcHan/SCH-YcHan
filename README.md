@@ -9,7 +9,7 @@
 
 ---
 
-## 🎓 **Soonchunhyang University ADS Lab [[🔗 Link](https://sites.google.com/view/sch-ads-lab/home?authuser=0)]**
+## 🎓 **Soonchunhyang University ADS Researcher [[🔗 Link](https://sites.google.com/view/sch-ads-lab/home?authuser=0)]**
 ### 📊 **Financial Analysis (2019.03 ~)**  
 - **International Journal**  
   - Han, Y., Kim, J., & Enke, D. (2024).  
