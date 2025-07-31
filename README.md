@@ -47,7 +47,7 @@
 
 ### 🩺 **Bio & Medical Analysis (2020.03 ~)**  
 - **International Journal**  
-  - AI-driven stiffness profiling in human mesenchymal stem cell *(Writing)*  
+  - AI-driven stiffness profiling in human mesenchymal stem cell *(Submmit)*  
 
   - MIE: Magnification Integrated Ensemble method for improving glomeruli segmentation in medical imaging *(Revising)*  
 
