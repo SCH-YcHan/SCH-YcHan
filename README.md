@@ -49,7 +49,7 @@
 - **International Journal**  
   - AI-driven stiffness profiling in human mesenchymal stem cell *(Submmit)*  
 
-  - MIE: Magnification Integrated Ensemble method for improving glomeruli segmentation in medical imaging *(Revising)*  
+  - MIE: Magnification Integrated Ensemble method for improving glomeruli segmentation in medical imaging *(Revision)*  
 
   - Han, Y., Kim, D. Y., Woo, J., & Kim, J. (2024).  
     *Glu-ensemble: An ensemble deep learning framework for blood glucose forecasting in type 2 diabetes patients.*  
