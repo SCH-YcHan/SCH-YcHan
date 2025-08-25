@@ -49,7 +49,7 @@
 - **International Journal**  
   - AdhGen: Optimization of focal adhesion morphology in human mesenchymal stem cells using a genetic algorithm *(Submmit)*  
 
-  - MIE: Magnification Integrated Ensemble method for improving glomeruli segmentation in medical imaging *(Revision)*  
+  - MIE: Magnification Integrated Ensemble method for improving glomeruli segmentation in medical imaging *(Accepted)*  
 
   - Han, Y., Kim, D. Y., Woo, J., & Kim, J. (2024).  
     *Glu-ensemble: An ensemble deep learning framework for blood glucose forecasting in type 2 diabetes patients.*  
