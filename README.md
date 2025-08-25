@@ -148,6 +148,11 @@
 
 ---
 
+## **Status**
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SCH-YcHan&show_icons=true&theme=transparent)  
+
+---
+
 ## 🌐 **Contact**
 📧 Email: ychan.sch@gmail.com  
 🔗 [GitHub Profile](https://github.com/SCH-YcHan)  
