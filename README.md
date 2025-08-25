@@ -148,7 +148,7 @@
 
 ---
 
-## **Status**
+## :whale: **Status**
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SCH-YcHan&show_icons=true&theme=transparent)  
 
 ---
