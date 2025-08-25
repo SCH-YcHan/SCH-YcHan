@@ -8,15 +8,15 @@
 
 ## 👨‍💻 **Data Scientist Freelancer**
 > **Korean National Police University [Police Science Institute]**
-- 📅 **2023.04 ~ 2023.06**: Crime and accident data pre-processing within the university  
-- 📅 **2022.12 ~ 2023.02**: Dataset analysis and concept presentation of unfair behavior in the workplace  
-- 📅 **2022.12 ~ 2023.02**: Traffic accident and voice phishing data pre-processing  
-- 📅 **2022.09 ~ 2022.12**: Developed search engine using Elasticsearch in Citizen Conan  
+- 📅 **2023.04 - 2023.06**: Crime and accident data pre-processing within the university  
+- 📅 **2022.12 - 2023.02**: Dataset analysis and concept presentation of unfair behavior in the workplace  
+- 📅 **2022.12 - 2023.02**: Traffic accident and voice phishing data pre-processing  
+- 📅 **2022.09 - 2022.12**: Developed search engine using Elasticsearch in Citizen Conan  
 
 ---
 
 ## 🎓 **Soonchunhyang University ADS Researcher [[🔗 Link](https://sites.google.com/view/sch-ads-lab/home?authuser=0)]**
-### 📊 **Financial Analysis (2019.03-2024.09)**  
+### 📊 **Financial Analysis (2019.03 - 2024.09)**  
 - **International Journal**  
   - Han, Y., Kim, J., & Enke, D. (2024).  
     *Selective genetic algorithm labeling: A new data labeling method for machine learning stock market trading systems.*  
@@ -45,7 +45,7 @@
     *한국통신학회 학술대회논문집, 1813-1814.*  
     [[🔗 Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ&citation_for_view=B_DD9tUAAAAJ:UeHWp8X0CEIC)]  
 
-### 🩺 **Bio & Medical Analysis (2020.03-Now)**  
+### 🩺 **Bio & Medical Analysis (2020.03 - Now)**  
 - **International Journal**  
   - AdhGen: Optimization of focal adhesion morphology in human mesenchymal stem cells using a genetic algorithm *(Submmit)*  
 
@@ -87,7 +87,7 @@
     *한국정보과학회 학술발표논문집, 1587-1589.*  
     [[🔗 Link](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=B_DD9tUAAAAJ&citation_for_view=B_DD9tUAAAAJ:u5HHmVD_uO8C)]  
 
-### 🚗 **Mobility Analysis (2021.12-2023.06)**  
+### 🚗 **Mobility Analysis (2021.12 - 2023.06)**  
 - **Conference Proceedings**  
   - 한예찬, 박태신, & 김재윤. (2023).  
     *AutoML 과 XAI 를 활용한 중고차 가격 예측 모델의 성능 평가.*  
@@ -103,15 +103,15 @@
 
 ## 📚 **Teaching Experience**
 > **Soonchunhyang University [Department of Big Data Engineering]**
-- 📅 **2025.09 ~ 2025.12**: Introduction to Databases  
-- 📅 **2025.03 ~ 2025.06**: Multivariate Analysis  
-- 📅 **2024.09 ~ 2024.12**: Introduction to Databases  
-- 📅 **2023.03 ~ 2023.06**: Data Mining  
-- 📅 **2022.09 ~ 2022.12**: Introduction to Databases  
+- 📅 **2025.09 - 2025.12**: Introduction to Databases  
+- 📅 **2025.03 - 2025.06**: Multivariate Analysis  
+- 📅 **2024.09 - 2024.12**: Introduction to Databases  
+- 📅 **2023.03 - 2023.06**: Data Mining  
+- 📅 **2022.09 - 2022.12**: Introduction to Databases  
 
 > **Segyo High School**  
-- 📅 **2022.08 ~ 2022.12**: Data analysis and utilization with Scratch  
-- 📅 **2022.03 ~ 2022.07**: Data analysis and utilization with Orange3  
+- 📅 **2022.08 - 2022.12**: Data analysis and utilization with Scratch  
+- 📅 **2022.03 - 2022.07**: Data analysis and utilization with Orange3  
 
 ---
 
