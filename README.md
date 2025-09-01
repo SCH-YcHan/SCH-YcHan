@@ -47,7 +47,7 @@
 
 ### 🩺 **Bio & Medical Analysis (2020.03 - Now)**  
 - **International Journal**  
-  - AdhGen: Optimization of focal adhesion morphology in human mesenchymal stem cells using a genetic algorithm *(Submmit)*  
+  - AdhGen: Optimization of focal adhesion morphology in human mesenchymal stem cells using a genetic algorithm *(Submit)*  
 
   - Han, Y., Kim, J., Park, S., Moon, J. S., & Lee, J. H. (2025).  
     *MIE: Magnification-Integrated Ensemble method for improving glomeruli segmentation in medical imaging.*  
