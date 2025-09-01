@@ -6,15 +6,6 @@
 
 ---
 
-## 👨‍💻 **Data Scientist Freelancer**
-> **Korean National Police University [Police Science Institute]**
-- 📅 **2023.04 - 2023.06**: Crime and accident data pre-processing within the university  
-- 📅 **2022.12 - 2023.02**: Dataset analysis and concept presentation of unfair behavior in the workplace  
-- 📅 **2022.12 - 2023.02**: Traffic accident and voice phishing data pre-processing  
-- 📅 **2022.09 - 2022.12**: Developed search engine using Elasticsearch in Citizen Conan  
-
----
-
 ## 🎓 **Soonchunhyang University ADS Researcher [[🔗 Link](https://sites.google.com/view/sch-ads-lab/home?authuser=0)]**
 ### 📊 **Financial Analysis (2019.03 - 2024.09)**  
 - **International Journal**  
@@ -101,6 +92,15 @@
     *CCTV 이미지와 YOLO 를 활용한 도로 객체 인식 모델 개발.*  
     *한국통신학회 학술대회논문집, 1666-1667.*  
     [[🔗 Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11048196)]  
+
+---
+
+## 👨‍💻 **Data Scientist Freelancer**
+> **Korean National Police University [Police Science Institute]**
+- 📅 **2023.04 - 2023.06**: Crime and accident data pre-processing within the university  
+- 📅 **2022.12 - 2023.02**: Dataset analysis and concept presentation of unfair behavior in the workplace  
+- 📅 **2022.12 - 2023.02**: Traffic accident and voice phishing data pre-processing  
+- 📅 **2022.09 - 2022.12**: Developed search engine using Elasticsearch in Citizen Conan  
 
 ---
 
