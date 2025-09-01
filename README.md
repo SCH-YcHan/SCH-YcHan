@@ -7,35 +7,6 @@
 ---
 
 ## 🎓 **Soonchunhyang University ADS Researcher [[🔗 Link](https://sites.google.com/view/sch-ads-lab/home?authuser=0)]**
-### 📊 **Financial Analysis (2019.03 - 2024.09)**  
-- **International Journal**  
-  - Han, Y., Kim, J., & Enke, D. (2024).  
-    *Selective genetic algorithm labeling: A new data labeling method for machine learning stock market trading systems.*  
-    *Engineering Applications of Artificial Intelligence, 135, 108680.*  
-    [[🔗 Link](https://doi.org/10.1016/j.engappai.2024.108680)]  
-
-  - Han, Y., Kim, J., & Enke, D. (2023).  
-    *A machine learning trading system for the stock market based on N-period Min-Max labeling using XGBoost.*  
-    *Expert Systems with Applications, 211, 118581.*  
-    [[🔗 Link](https://doi.org/10.1016/j.eswa.2022.118581)]  
-
-- **Domestic Journal**  
-  - 한예찬, & 김재윤. (2021).  
-    *N-기간 변동성 데이터 라벨링을 활용한 XGBoost 트레이딩 시스템 개발.*  
-    *한국데이터정보과학회지, 32(5), 1049-1070.*  
-    [[🔗 Link](https://scholarworks.bwise.kr/sch/handle/2021.sw.sch/20969)]  
-
-- **Conference Proceedings**  
-  - 정민찬, 손우진, 한예찬, & 김재윤. (2024).  
-    *다중 라벨을 활용한 코스피 200 주가지수선물 딥러닝 트레이딩 시스템 개발.*  
-    *한국통신학회 학술대회논문집, 1389-1390.*  
-    [[🔗 Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11906496)]  
-
-  - 한예찬, & 김재윤. (2022).  
-    *머신러닝 트레이딩 시스템 개발을 위한 유전자 알고리즘 기반 데이터 라벨링.*  
-    *한국통신학회 학술대회논문집, 1813-1814.*  
-    [[🔗 Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11108501)]  
-
 ### 🩺 **Bio & Medical Analysis (2020.03 - Now)**  
 - **International Journal**  
   - AdhGen: Optimization of focal adhesion morphology in human mesenchymal stem cells using a genetic algorithm *(Submit)*  
@@ -80,6 +51,35 @@
     *기계학습을 이용한 마취 후 저혈압 예측.*  
     *한국정보과학회 학술발표논문집, 1587-1589.*  
     [[🔗 Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09874855)]  
+
+### 📊 **Financial Analysis (2019.03 - 2024.09)**  
+- **International Journal**  
+  - Han, Y., Kim, J., & Enke, D. (2024).  
+    *Selective genetic algorithm labeling: A new data labeling method for machine learning stock market trading systems.*  
+    *Engineering Applications of Artificial Intelligence, 135, 108680.*  
+    [[🔗 Link](https://doi.org/10.1016/j.engappai.2024.108680)]  
+
+  - Han, Y., Kim, J., & Enke, D. (2023).  
+    *A machine learning trading system for the stock market based on N-period Min-Max labeling using XGBoost.*  
+    *Expert Systems with Applications, 211, 118581.*  
+    [[🔗 Link](https://doi.org/10.1016/j.eswa.2022.118581)]  
+
+- **Domestic Journal**  
+  - 한예찬, & 김재윤. (2021).  
+    *N-기간 변동성 데이터 라벨링을 활용한 XGBoost 트레이딩 시스템 개발.*  
+    *한국데이터정보과학회지, 32(5), 1049-1070.*  
+    [[🔗 Link](https://scholarworks.bwise.kr/sch/handle/2021.sw.sch/20969)]  
+
+- **Conference Proceedings**  
+  - 정민찬, 손우진, 한예찬, & 김재윤. (2024).  
+    *다중 라벨을 활용한 코스피 200 주가지수선물 딥러닝 트레이딩 시스템 개발.*  
+    *한국통신학회 학술대회논문집, 1389-1390.*  
+    [[🔗 Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11906496)]  
+
+  - 한예찬, & 김재윤. (2022).  
+    *머신러닝 트레이딩 시스템 개발을 위한 유전자 알고리즘 기반 데이터 라벨링.*  
+    *한국통신학회 학술대회논문집, 1813-1814.*  
+    [[🔗 Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11108501)]  
 
 ### 🚗 **Mobility Analysis (2021.12 - 2023.06)**  
 - **Conference Proceedings**  
