@@ -81,7 +81,10 @@
     *한국통신학회 학술대회논문집, 1813-1814.*  
     [[🔗 Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11108501)]  
 
-### 🚗 **Mobility Analysis (2021.12 - 2023.06)**  
+### 🚗 **Mobility Analysis (2021.12 - 2025.09)**  
+- **International Journal**  
+  - A Multi-Modal Approach for Detecting Drivers' Distraction using Bio-Signal and Vision Sensor Fusion in Driver Monitoring Systems *(Accept)*   
+
 - **Conference Proceedings**  
   - 한예찬, 박태신, & 김재윤. (2023).  
     *AutoML 과 XAI 를 활용한 중고차 가격 예측 모델의 성능 평가.*  
