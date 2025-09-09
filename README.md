@@ -81,7 +81,7 @@
     *한국통신학회 학술대회논문집, 1813-1814.*  
     [[🔗 Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11108501)]  
 
-### 🚗 **Mobility Analysis (2021.12 - 2025.09)**  
+### 🚗 **Mobility Analysis (2021.12 - 2024.06)**  
 - **International Journal**  
   - A Multi-Modal Approach for Detecting Drivers' Distraction using Bio-Signal and Vision Sensor Fusion in Driver Monitoring Systems *(Accept)*   
 
