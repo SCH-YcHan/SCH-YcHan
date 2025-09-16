@@ -85,7 +85,7 @@
 - **International Journal**  
   - Noh, B., Park, M., Han, Y., & Kim, J. (2025).  
     *A Multi-Modal Approach for Detecting Drivers' Distraction using Bio-Signal and Vision Sensor Fusion in Driver Monitoring Systems.*  
-    *Engineering Applications of Artificial Intelligence, 135, 108680.*   
+    *Engineering Applications of Artificial Intelligence, 161, 112265.*   
     [[🔗 Link](https://doi.org/10.1016/j.engappai.2025.112265)]
     
 - **Conference Proceedings**  
