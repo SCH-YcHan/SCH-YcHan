@@ -9,6 +9,8 @@
 ## 🎓 **Soonchunhyang University ADS Researcher [[🔗 Link](https://sites.google.com/view/sch-ads-lab/home?authuser=0)]**
 ### 🩺 **Bio & Medical Analysis (2020.03 - Now)**  
 - **International Journal**  
+  - Cancer study (Design)
+
   - AdhGen: Optimization of focal adhesion morphology in human mesenchymal stem cells using a genetic algorithm *(Submit)*  
 
   - Han, Y., Kim, J., Park, S., Moon, J. S., & Lee, J. H. (2025).  
