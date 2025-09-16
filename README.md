@@ -52,7 +52,7 @@
     *한국정보과학회 학술발표논문집, 1587-1589.*  
     [[🔗 Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09874855)]  
 
-### 📊 **Financial Analysis (2019.03 - 2024.09)**  
+### 📊 **Financial Analysis (2019.03 - 2024.12)**  
 - **International Journal**  
   - Han, Y., Kim, J., & Enke, D. (2024).  
     *Selective genetic algorithm labeling: A new data labeling method for machine learning stock market trading systems.*  
@@ -81,10 +81,13 @@
     *한국통신학회 학술대회논문집, 1813-1814.*  
     [[🔗 Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11108501)]  
 
-### 🚗 **Mobility Analysis (2021.12 - 2024.06)**  
+### 🚗 **Mobility Analysis (2021.12 - 2024.12)**  
 - **International Journal**  
-  - A Multi-Modal Approach for Detecting Drivers' Distraction using Bio-Signal and Vision Sensor Fusion in Driver Monitoring Systems *(Accept)*   
-
+  - Noh, B., Park, M., Han, Y., & Kim, J. (2025).  
+    *A Multi-Modal Approach for Detecting Drivers' Distraction using Bio-Signal and Vision Sensor Fusion in Driver Monitoring Systems.*  
+    *Engineering Applications of Artificial Intelligence, 135, 108680.*   
+    [[🔗 Link](https://doi.org/10.1016/j.engappai.2025.112265)]
+    
 - **Conference Proceedings**  
   - 한예찬, 박태신, & 김재윤. (2023).  
     *AutoML 과 XAI 를 활용한 중고차 가격 예측 모델의 성능 평가.*  
