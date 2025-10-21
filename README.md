@@ -11,7 +11,7 @@
 - **International Journal**  
   - Cancer study *(Under plan)*
 
-  - AdhGen: Optimization of focal adhesion morphology in human mesenchymal stem cells using a genetic algorithm *(Submit)*  
+  - AdhGen: Optimization of focal adhesion morphology in human mesenchymal stem cells using a genetic algorithm *(Under review)*  
 
   - Han, Y., Kim, J., Park, S., Moon, J. S., & Lee, J. H. (2025).  
     *MIE: Magnification-Integrated Ensemble method for improving glomeruli segmentation in medical imaging.*  
