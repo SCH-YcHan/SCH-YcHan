@@ -9,9 +9,11 @@
 ## 🎓 **Soonchunhyang University ADS Researcher [[🔗 Link](https://sites.google.com/view/sch-ads-lab/home?authuser=0)]**
 ### 🩺 **Bio & Medical Analysis (2020.03 - Now)**  
 - **International Journal**  
-  - Cancer study *(Under plan)*
+  - Blood cells study *(Under plan)*
 
-  - AdhGen: Optimization of focal adhesion morphology in human mesenchymal stem cells using a genetic algorithm *(Under review)*  
+  - Glomeruli study 2 *(Under plan)*  
+
+  - AdhGen: Optimization of focal adhesion morphology in human mesenchymal stem cells using a genetic algorithm *(Writing)*  
 
   - Han, Y., Kim, J., Park, S., Moon, J. S., & Lee, J. H. (2025).  
     *MIE: Magnification-Integrated Ensemble method for improving glomeruli segmentation in medical imaging.*  
